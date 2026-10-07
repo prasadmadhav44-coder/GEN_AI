@@ -1,0 +1,2 @@
+This is a new content of the file.
+New line added to the file.
