@@ -1,12 +1,12 @@
 
-Car_Name,Brand,Year,Price_Lakhs,Fuel_Type,Transmission,Mileage,Seats
-Swift,Maruti Suzuki,2022,7.5,Petrol,Manual,22.0,5
-Creta,Hyundai,2023,14.0,Diesel,Automatic,18.0,5
-Nexon,Tata,2024,12.5,Petrol,Manual,17.5,5
-Innova,Toyota,2022,22.0,Diesel,Automatic,15.0,7
-City,Honda,2021,12.0,Petrol,Automatic,17.8,5
-Thar,Mahindra,2024,18.0,Diesel,Manual,15.2,4
-Punch,Tata,2023,8.0,Petrol,Manual,20.0,5
-Fortuner,Toyota,2024,42.0,Diesel,Automatic,10.0,7
-Baleno,Maruti Suzuki,2022,8.5,Petrol,Manual,22.5,5
-Seltos,Kia,2023,15.0,Diesel,Automatic,18.0,5
+Car_Name,Brand,Year,Price,Fuel_Type,Transmission,Mileage,Seats
+Swift,Maruti Suzuki,2022,"₹7,50,000",Petrol,Manual,22.0,5
+Creta,Hyundai,2023,"₹14,00,000",Diesel,Automatic,18.0,5
+Nexon,Tata,2024,"₹12,50,000",Petrol,Manual,17.5,5
+Innova,Toyota,2022,"₹22,00,000",Diesel,Automatic,15.0,7
+City,Honda,2021,"₹12,00,000",Petrol,Automatic,17.8,5
+Thar,Mahindra,2024,"₹18,00,000",Diesel,Manual,15.2,4
+Punch,Tata,2023,"₹8,00,000",Petrol,Manual,20.0,5
+Fortuner,Toyota,2024,"₹42,00,000",Diesel,Automatic,10.0,7
+Baleno,Maruti Suzuki,2022,"₹8,50,000",Petrol,Manual,22.5,5
+Seltos,Kia,2023,"₹15,00,000",Diesel,Automatic,18.0,5
