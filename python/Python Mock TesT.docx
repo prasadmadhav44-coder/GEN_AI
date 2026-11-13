@@ -1,0 +1,87 @@
+                                                            PYTHON MOCK TEST 
+        Type: B 
+        Duration: 1.5 Hours 
+        Total Questions: 20 
+
+
+        Section 1: Theory Questions  
+        
+        
+        1. What are mutable and immutable data types in Python? Give examples. 
+            Mutable data types can be changed after creation.
+            Ex : List, Dictionary, and Set.
+
+            Immutable data types cannot be changed after creation. 
+            Ex : Tuple, String, and Integer.
+
+        2. What is the purpose of the range() function? 
+            The range() function generates a sequence of numbers. 
+            It is mainly used in for loops.
+            Ex : range(0,10,2) #O/P - 0,2,4,6,8
+
+        3. What is the difference between if-else and if-elif-else statements? 
+            if-else
+                if-else is used to check one condition.
+                syntax:if <condition>: else:
+
+            if-elif-else 
+                if-elif-else is used to check multiple conditions.
+                syntax:if <condition>: elif<condition>: else:
+        
+        4. What are local and global variables? 
+            A local variable is created inside a function(Scope) and can be accessed only there.
+            A global variable is created outside a function(scope) and can be accessed throughout the program.
+
+        5. What are positional arguments and keyword arguments? 
+            positional arguments are stored in tuple.
+            keyword arguments are stored in dictionary.
+
+        6. What are built-in functions and user-defined functions?
+            Built-in functions are already available in Python, like print() and len().
+            User-defined functions are created by us using the def keyword.
+
+        7. What is the difference between int, float, str, and bool?
+            - int – Stores whole numbers.
+            - float – Stores decimal numbers.
+            - str – Stores text.
+            - bool – Stores True or False.
+
+        8. What are type(), len(), and input() used for?
+            - type() – Checks the data type.
+            - len() – Finds the length.
+            - input() – Gets input from the user.
+
+        9. What is encapsulation in OOP?
+                Encapsulation means combining data and methods inside a class and controlling access to them.
+
+        10. What is polymorphism? Give an example.
+            Polymorphism means one thing can have different forms.
+            Ex: The same + operator is used for adding numbers and joining strings.
+
+        11. What is the purpose of self parameter and init() method?
+                self refers to the current object.
+                __init__() is a special method that runs automatically when an object is created.
+                It is used to calling a constructor to intialize values.
+         
+        12. What is method overriding? How is super() used?
+            Method overriding means a child class has a method with a same name of  its own parent class method.
+            super() is used to access that  methods from the parent class.
+        
+        13. What is the difference between read(), readline(), and readlines()?
+            - read() – Reads the entire file.
+            - readline() – Reads one line.
+            - readlines() – Reads all lines and returns them as a list.
+
+        14. What is NumPy? Explain the difference between a Python list and a NumPy array.
+            NumPy is a Python library used for numerical calculations.
+            A Python list can store different data types, while a NumPy array is mainly used for efficient numerical operations.
+            Ex: List = [1,"Two",NONE]
+                numpy = [1,2,3,4,5,6,7,8] - only stores numerical values as a array
+        
+        15. What is Matplotlib? Explain the uses of plot() and bar().
+            Matplotlib is a Python library used to create graphs and charts.
+            - plot() – Creates line graphs.
+            - bar() – Creates bar charts.
+
+        
+
